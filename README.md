@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 <!--
 **nclongkk/nclongkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <a href="https://app.daily.dev/nclongkk"><img src="https://api.daily.dev/devcards/468bb14134624fa8a9a3c909cfa389b5.png?r=d9d" width="400" alt="Công Long's Dev Card"/></a>
+-->
